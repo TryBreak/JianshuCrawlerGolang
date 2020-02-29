@@ -26,7 +26,7 @@ import (
 
 func main() {
 	fmt.Println("Hello, world")
-	url := "http://www.baidu.com/"
+	url := "http://www.jianshu.com"
 	download(url)
 }
 
